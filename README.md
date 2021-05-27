@@ -36,7 +36,7 @@ How to configure
 step 1: install python
 step 2: create a new virtual environment in the project folder
 step 3: activate the environment
-step 4: install the required libraries mentioned above 
+step 4: install the required libraries mentioned above
 
 How to Run
 step 1: open cmd
